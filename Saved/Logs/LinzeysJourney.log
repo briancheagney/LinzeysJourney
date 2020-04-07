@@ -905,3 +905,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.07-02.50.39:701][271]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
 [2020.04.07-02.50.53:103][272]Cmd: QUIT_EDITOR
 [2020.04.07-02.51.19:595][272]LogExit: Preparing to exit.
+[2020.04.07-02.51.34:931][272]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-02.51.45:554][272]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.04.07-02.51.54:530][272]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-02.51.54:823][272]LogExit: Editor shut down
+[2020.04.07-02.51.55:512][272]LogExit: Transaction tracking system shut down
+[2020.04.07-02.52.36:622][272]LogExit: Object subsystem successfully closed.
