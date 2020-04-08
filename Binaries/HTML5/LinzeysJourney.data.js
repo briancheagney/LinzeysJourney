@@ -173,6 +173,6 @@ Module['FS_createPath']('/LinzeysJourney/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 101, "filename": "/UE4CommandLine.txt"}, {"start": 101, "audio": 0, "end": 73970454, "filename": "/LinzeysJourney/Content/Paks/LinzeysJourney-HTML5.pak"}], "remote_package_size": 73970454, "package_uuid": "0ae06aa6-c31e-472f-bfce-80583f6fd788"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 101, "filename": "/UE4CommandLine.txt"}, {"start": 101, "audio": 0, "end": 76305743, "filename": "/LinzeysJourney/Content/Paks/LinzeysJourney-HTML5.pak"}], "remote_package_size": 76305743, "package_uuid": "ad6b8de6-e067-4bb2-a646-7e17b71521a1"});
 
 })();
