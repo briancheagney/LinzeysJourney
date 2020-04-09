@@ -1755,429 +1755,439 @@
 "../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1755
 "../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Intermediate/AssetRegistryCache/311563bb.bin" 1756
 "../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Intermediate/AssetRegistryCache/c90e3f55.bin" 1757
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" 1758
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" 1759
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset" 1760
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Blueprints/Avacato_BP.uasset" 1761
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Blueprints/Gem_BP.uasset" 1762
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Blueprints/Giraffe_BP.uasset" 1763
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Sounds/Ambience_mixdown.uasset" 1764
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Sounds/Gem_Final.uasset" 1765
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Satelite.uasset" 1766
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Satelite_Flipbook.uasset" 1767
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Satelite_Sprite.uasset" 1768
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Widgets/WinWidget.uasset" 1769
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1770
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1771
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1772
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_CD2024A34BED374A71F8009AA6__1490AD1372D10284E0EF84B02D48ABB590D3B9F0.udd" 1773
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 1774
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_F93A868C471D0DE82928079B96__C456523F9EAA9DBD2AE84CF12C7CFC72E9F417D6.udd" 1775
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1776
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/6/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_3C1AE2C048C12A663DA5BB8FAF__481B85422347F894B6895EC13002BFEB952DA9FF.udd" 1777
-"../../../Engine/Content/BasicShapes/Cone.uasset" 1778
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/8/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_2E98B72D4BA502DB719279B4BD__E33573A6F9C76E8884C9700401DD7A9A13BC5BD2.udd" 1779
-"../../../Engine/Content/BasicShapes/Plane.uasset" 1780
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_8B63846543482A3CC5AED59FC7__B05EDF5B20BC41A8C88BEC70F18EAC54017DFAFD.udd" 1781
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 1782
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1783
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 1784
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 1785
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 1786
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 1787
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1788
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 1789
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Intermediate/AssetRegistryCache/fc0b6af2.bin" 1790
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset" 1791
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 1792
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScrollerBP/Blueprints/NewInterface.uasset" 1793
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Blueprints/DialogueAdvance.uasset" 1794
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Blueprints/Interact_I.uasset" 1795
-"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game.uasset" 1796
-"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_LevelBP.uasset" 1797
-"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Pawn.uasset" 1798
-"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset" 1799
-"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset" 1800
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 1801
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1802
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1803
-"../../../Engine/Content/FunctionalTesting/Blueprints/AITesting_MoveGoal.uasset" 1804
-"../../../Engine/Content/Sequencer/DefaultBurnInOptions.uasset" 1805
-"../../../Engine/Content/Tutorial/Basics/ContentBrowserOverview.uasset" 1806
-"../../../Engine/Content/Tutorial/Basics/FeaturePacks.uasset" 1807
-"../../../Engine/Content/Tutorial/Basics/ViewportsTutorial.uasset" 1808
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 1809
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 1810
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 1811
-"../../../Engine/Content/Tutorial/BlueprintTutorials/ClassBlueprintsEditorOverview.uasset" 1812
-"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 1813
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Class.uasset" 1814
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 1815
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 1816
-"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 1817
-"../../../Engine/Content/Tutorial/Foliage/FoliageWalkThrough.uasset" 1818
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1819
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 1820
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1821
-"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 1822
-"../../../Engine/Content/Tutorial/Installation/InstallingXCodeTutorial.uasset" 1823
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial.uasset" 1824
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part2.uasset" 1825
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part3.uasset" 1826
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.uasset" 1827
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge1.uasset" 1828
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge2.uasset" 1829
-"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 1830
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 1831
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 1832
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 1833
-"../../../Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset" 1834
-"../../../Engine/Content/Tutorial/Mobile/InstallingiTunesTutorial.uasset" 1835
-"../../../Engine/Content/Tutorial/Mobile/SettingUpLuminTutorial.uasset" 1836
-"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 1837
-"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 1838
-"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 1839
-"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1840
-"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 1841
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 1842
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 1843
-"../../../Engine/Content/Tutorial/SubEditors/PersonaWalkthrough.uasset" 1844
-"../../../Engine/Content/Tutorial/SubEditors/SkeletalMeshEditorWalkthrough.uasset" 1845
-"../../../Engine/Content/Tutorial/SubEditors/SkeletonModeWalkthrough.uasset" 1846
-"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1847
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 1848
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_AnimatedNode.uasset" 1849
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Animation.uasset" 1850
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 1851
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 1852
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SharedNode.uasset" 1853
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 1854
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Toggle.uasset" 1855
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimatedNode.uasset" 1856
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimation.uasset" 1857
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimNode.uasset" 1858
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 1859
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/BP_AnimationPlayer.uasset" 1860
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/ImportedSequencesHelper.uasset" 1861
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationPlayer.uasset" 1862
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/BP_VariantSelector.uasset" 1863
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantsSelector.uasset" 1864
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 1865
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithAreaLight.uasset" 1866
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 1867
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 1868
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 1869
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Widgets/DialogueWidget.uasset" 1870
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Widgets/DialogueWidget_C.uasset" 1871
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Widgets/Score.uasset" 1872
-"../../../Engine/Content/Sequencer/DefaultBurnIn.uasset" 1873
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/AnimationSampleUI.uasset" 1874
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/VREDAnimationSampleUI.uasset" 1875
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/VREDVariantSampleUI.uasset" 1876
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset" 1877
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 1878
-"../../../Engine/Config/HTML5/HTML5Engine.ini" 1879
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/9/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___FC56925FC75F73B234E89862722662ECE59D239A.udd" 1880
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/0/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___CF08083927D3C72D9F8284BBEE93B422B0B8D89B.udd" 1881
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/4/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___156035BC7A18B0D1B85A023B77120D1B713F081F.udd" 1882
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/2/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___E6BB567992B17A70928809021ABCB71ED321BB4A.udd" 1883
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/7/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___82526851F11E9368B313F735A5743466032BA518.udd" 1884
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/6/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___E559BBC65B1DF63375E1ABBCE346F4FA0581A602.udd" 1885
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/6/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___A236CD977DD1554CCC4C2874D1E105AF676C6867.udd" 1886
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/0/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___993B697AF49D87FC3C7641A1E688BD1B1B5ECF50.udd" 1887
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/3/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___DEDF2473877BDBB5729ECE9A5CC262C44BB501E4.udd" 1888
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/6/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___5910A9D7FB707FAA816124FCF715B2172289392C.udd" 1889
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/9/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___3077A7A8DDF7F94E3B85F5533C2860DBDF9D6BFD.udd" 1890
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/3/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___A1D16861F89DC10FCA75C1EC4F84015B9CE26844.udd" 1891
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/8/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___AAF054DF2753556D3936A4BED23F02EE1075C08A.udd" 1892
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/0/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___28D0DDF1909459070FAC6E93F6A216548B59DFDB.udd" 1893
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/2/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___6EE0952AE1953E60EFEC369FEE91C2EF8BFA3371.udd" 1894
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/5/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___01400C9B50201FF097F0961B0A750A9CF5D55FCF.udd" 1895
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/7/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___83E7E78239577F12478E37063C73906DD1B4E651.udd" 1896
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/5/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___142627F20BC91C95E4A87DD6E50B51844C736228.udd" 1897
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/0/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___051DB4119DBB4FA01023321AAC8C340599D10D80.udd" 1898
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/9/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___BEA2BAA35F1B7EAC1BF2A9CF1A4D135434C943C1.udd" 1899
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/4/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___236486D065733ABD6C0DE5D3A68137909EF1352F.udd" 1900
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/9/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___9BEF027FF712E2E7E42DA47B115ED74809384AD7.udd" 1901
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/6/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___885A452F23AC67BFDAEB99866658840F211C5168.udd" 1902
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/7/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___65A5DD9CDDE31811B257055AD5E1C16C823C8859.udd" 1903
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/5/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___A66E4017E25637AE8F27BDCE7A6ED77A9CA603AF.udd" 1904
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/6/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___B6EBD8ED2880E386C13F41BE058D0CB213B14345.udd" 1905
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/0/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___27A8E72EA395F81A70E7874E2B02DE19DBF7E162.udd" 1906
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/8/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___54BD213FF5AE2659ECDBA5944AE83A1745441A81.udd" 1907
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/0/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___CBBA1C9F89C4E13489F3C0229D1066633F4E3D91.udd" 1908
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/8/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___944FE5CDBFF9F21A0317F40964D0E9EFF3B3BAF9.udd" 1909
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/0/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___AB51B6C88BD61ABBBBBAF1B0045E018791ACB894.udd" 1910
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/8/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___5E7E224CBFD3E159AD66F94A2EAFB85287099A98.udd" 1911
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/4/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___6E78827C3D6669BA4CD70C7BB49514920D8E0F48.udd" 1912
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/4/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___4FEAA2E69F751C67C0FA85F71956AD9AE27F6410.udd" 1913
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/5/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___92D13303F2334BF981DC5151302583A473126A21.udd" 1914
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/0/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___5F2B71EE94930F2DE2950E68845E9A19EAA3AD13.udd" 1915
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___8924492EF344BAB7DF5FC91FE7B3E9CDA6311D45.udd" 1916
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/6/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___1EB275CAA7369B3205A18133FC90D7CF197599D4.udd" 1917
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/2/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___732CBEA6E284143065D4776B7378DBB1B143EB77.udd" 1918
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/6/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___C29CAC599415794200E491A398A372FB8A9F04F9.udd" 1919
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/3/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___C168FDD882DF3769A352F3A8D3B4C3BC3D434DD8.udd" 1920
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/4/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___AE2E761EC68801E12A9AB241C4E7A9C01EE3FF74.udd" 1921
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/1/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___E718E473021A0B502230DACF70F45A6F4AB86B42.udd" 1922
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/9/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___F055F450E051096D2D3F24F71299F12AEA147CA4.udd" 1923
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/8/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___2BAF0C01F3648471241072737B3AC03CA85F725F.udd" 1924
-"../../../Engine/Config//BaseEngine.ini" 1925
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1926
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1927
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1928
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_5216118D4EACC7D4064ADCBA89F7720__3C4F31C5418B4D4385A6FE52A722FA1E3A4B1445.udd" 1929
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_5216118D4EACC7D4064ADCBA89F7720__9C46323653988636610A9F8B93BAE96EB715EDCE.udd" 1930
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_C6F046E346DE53E9987E70930FC6D31__39D27E035CEEC4BF01E88A92490257E3ACD4A224.udd" 1931
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/7/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_572BACBB4C0F7A7E5E958FB3CA__36F02B9058B40F552FEB297535D0F6413F951D15.udd" 1932
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_47C1133249E93D7CF59DA4BCB101ADE__0F071408EA6DE377FD7FE25CB927AFE4CE4DF6E5.udd" 1933
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/9/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__DCD3E05E54B6440AB7EACD04B1BBF8CE20A3AE2C.udd" 1934
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/0/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__5643EFF9F6CCD7014883D3F0678790FF2B559986.udd" 1935
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT5_565E0359430950FA252A118AF8521636__A2B7DA5AF2F83B5F37D733AACC6B5CDB73933BA9.udd" 1936
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT5_565E0359430950FA252A118AF8521636__92D4F566738A31ED3AC551DEF2DDDA90D68EE749.udd" 1937
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT5_565E0359430950FA252A118AF8521636__7E1FFF24CB0A9D3D3044AF6B18E80965527DC833.udd" 1938
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/1/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__232641127E912E0F3016AC51A7AEEDAA1E0DF903.udd" 1939
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/9/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__5F8814D3B4A81EA0CDFB10AFD7065913ECABD07B.udd" 1940
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/6/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__AFFDA331A70BBB4D63E3D00BD368BDFCE13584B8.udd" 1941
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/2/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__E5D5E80B16DDFBB457D5F1A70FAF96978A2A57DC.udd" 1942
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_D0FECEC94BB5E3DA0C23C4AB41A933F__5CCBD3F8461651E3485A74B6468FBE6386B60927.udd" 1943
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_D0FECEC94BB5E3DA0C23C4AB41A933F__2BCF251F66570B212AEBAC6AB0DB8BF4E67377EE.udd" 1944
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_D0FECEC94BB5E3DA0C23C4AB41A933F__665400119B7314FC8A7BEE86E3E8F493888A7700.udd" 1945
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/4/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__386BECF0D93F89BD8AEE79A621C43B6A1A70C3DA.udd" 1946
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_687091CC4AA2E8FC0F9056A1BE61186C_0__7D7C7CE19953A5426ABB1A4AAE90DF01F2B0AD4E.udd" 1947
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_BEA72D4149C0786E82EA7E862212708__8AB6692593033E8E184174D40D13CEC8AC514E08.udd" 1948
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_03B0782E43A4D3C2AFA298B72B__B0BC4156D32CF2D32061336620DA29FDBDD3D9BA.udd" 1949
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/1/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__25AB2884AB4822DFAAA5C8B33CC86BB89C90666B.udd" 1950
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/5/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__21BFDDCD1A629B47897074301ECB00229C59A370.udd" 1951
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/LinzeySketch_Flipbook.uasset" 1952
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/LinzeySketch_Sprite.uasset" 1953
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1954
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/LinzeySketch.uasset" 1955
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/Giraffe_Sprite.uasset" 1956
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/Giraffe.uasset" 1957
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/3/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__534B2C79D87217DF62CBAB38CD8671DFC083A169.udd" 1958
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_6BB8BABF4A008D3899A97ABF90F135E__B795CDFC7DC8B62BB895C8FE42B9B7B91916C3D9.udd" 1959
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_0123ACD64C3E5C074BBB2FBEF03477F__8BBCDC5EDD3C6515CE518E629492E2FB02210502.udd" 1960
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_68F96D6E4F7269E4AD14B2B016__CC5C2631F36D066BA5CD5D2E6BB6ADE7A91C0D0F.udd" 1961
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/1/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__6D0A03272C4ACA172588F9887229B7F1EB7C1918.udd" 1962
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/2/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__C608A5FE5D082DFA2E7D46715F8A236AB23ED09C.udd" 1963
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_8BCFCFC24E0DF8EF018F38A90F__2CD085385C6F4EC9C63F4B7ADAA20E526E228BA5.udd" 1964
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_A45AC5F24F727E508B7132ADC0__EDDCE9B9AF5156FC99B9DAFCBBC2F2EFD9E32AF6.udd" 1965
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/8/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__B01DE8529032A31F7F5EB91B58F8959F2ECD972B.udd" 1966
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_C7E16BC44EBF283831F3C1844D__4B86C5DEB1CFAF46D96B59B25E756C8522914C8F.udd" 1967
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/6/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__C3E4F35F85D3944A2490692346270E964F1464AF.udd" 1968
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_F260EC324774DCAE6A79CD8375__FFF80B42A56430035E6B733303C29992A80C78BB.udd" 1969
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/8/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_52AECB5F44307B68A160C3A844__B73BC569FF942639A8BEB2C2C2E06DD856C750E9.udd" 1970
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_688DE534429542F2A282749F0E__6924F43219ECF7850FFF0EEB9DAED9505181D31C.udd" 1971
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_0EAA33D84B2C00A4EF99379D61__42A0A5859026771C5D07D0E76C2043932FB61564.udd" 1972
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/6/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_EFC97AF34787426E181448A12D__19E83D37205101AD733945136520314943769585.udd" 1973
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/3/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_ED0028A248A57D12896F708C02__FADDB8A6D03154183B0AEDDCC673444CE27922EB.udd" 1974
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/5/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__BFFC7F5E777052A36B19F218BC6B1FDA7FFF7A66.udd" 1975
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_B19E8D43472CA8B277E8CCA8993996A__2197A55A928B12CF33DCD5F3CCFBAB5F2C032638.udd" 1976
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_056A03A5436F9F05D7AA329082E3874__E3B7BE61DB046D467AB90F6727CDA8BEEC8068D0.udd" 1977
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_7878859F4A9996EB41A8A4B02F__761994D3E96C6C7F45CCC56867AFC2129FF0527F.udd" 1978
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_D3CEBA6D46C9A259115E97AB0F4C15D__93023CB6C409DDA8A21022D291B9EB5FA84B07E4.udd" 1979
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_2140CA5B4637C285519D6D91BA9973B__E701F8295A42BB7AD38363BFD3408F087D8D6B36.udd" 1980
-"../../../Engine/Content/Maps/Entry.umap" 1981
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1982
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/3/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_C6F7EA2A495BE03C3BAF42B257494BE6__1_0_0_0_3_13315_0.udd" 1983
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/8/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_877145D1422EE3EA54EABAB94BD216AE__1_0_0_0_3_13315_0.udd" 1984
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_6C14CC144C153FD7E97FE88477D954B5__1_0_0_0_3_13315_0.udd" 1985
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_8B2471EE4EADD31BE60A44A5464F8409__1_0_0_0_3_13315_0.udd" 1986
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/1/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__6254E15DD72EDF3C1D7E0370DBA493862D7F63FC.udd" 1987
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_0B92E78C4DB1EF7D0C58D2A05F__A611A6983ADED23E92077BF38B0B678976879213.udd" 1988
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/7/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__FFF93B5637854EB599C5E1E78111EE8DE38F6B07.udd" 1989
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_612EB907447B1AC8462FDA88A5704C7__31C55FF310D72D05883749D206F9EEAB66A6B83B.udd" 1990
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_612EB907447B1AC8462FDA88A5704C7__B8AA4C940C5C071C875DAD796005E6D8ECC39728.udd" 1991
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_612EB907447B1AC8462FDA88A5704C7__378AB8CBF2B0FA14E2F721B8CBDC25FF24D8E690.udd" 1992
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_73D0B8C142852F93251ED0AF97E9741__B83FF5B40E900B51AF4F03F0E2BD36D428FBDADF.udd" 1993
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_73D0B8C142852F93251ED0AF97E9741__4713783FF98B042CC873EBE53239838C13088B87.udd" 1994
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_73D0B8C142852F93251ED0AF97E9741__3947090842AAF1AE87C6F3B6D6888E115A6CE283.udd" 1995
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_9D800FD44039E87C95EE86A0316AA3B__887B2FD921BFA070D8000116AA7E2EF33907F189.udd" 1996
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/0/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__2134FABFEB2F7650631D80464462925BC8BEDEFC.udd" 1997
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/0/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__BD10E803301AB0AF6D56F204D96A25751C15103D.udd" 1998
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/2/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__9494D20C3B4891C41FA7DB9E30CA95F158F0BDEE.udd" 1999
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/3/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__07FD9EF88AA9C8B60A5437B649A3A106811FF063.udd" 2000
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/3/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__5640861939310F412296FD52D2C8ED726A599368.udd" 2001
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__342CA0A3AC71E09C935F073E39F65A7E3B55E1A5.udd" 2002
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/8/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__D72DEB453D96C7A89F5E04B06171EF1BB8BA7201.udd" 2003
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_52C2D2044F80407BBABA8CB2BA04F4F__B2A646F045EC2EE8F390A30A6A45CD37600E3DA5.udd" 2004
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_A28EC0C4486158C85466808599E49A4__C884F08D38E466414E4C9DBE9723FA71ABADB4EB.udd" 2005
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_9B0249994A9B1B14D96CD7BB7A90FB3__F2157F6DCDC4652F831B20645CEC1546D5C4D169.udd" 2006
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/1/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__73F8CA88BF97AE92EB402F1C477718DFD2D76D8B.udd" 2007
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/7/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__8B42D1C5D3E30B23DC6CE9F5EDF43E254ED31A63.udd" 2008
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/3/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__F388548A35B8D6B1BAE238945D67FD1778888F75.udd" 2009
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScrollerBP/Blueprints/Dialogue_Sheet.uasset" 2010
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScrollerBP/Blueprints/DialogueStructure.uasset" 2011
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/Avacato_sm_Sprite.uasset" 2012
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/Avacato_sm.uasset" 2013
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_FB.uasset" 2014
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_01_Sprite.uasset" 2015
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_01.uasset" 2016
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_02_Sprite.uasset" 2017
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_02.uasset" 2018
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_03_Sprite.uasset" 2019
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_03.uasset" 2020
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_04_Sprite.uasset" 2021
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_04.uasset" 2022
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_05_Sprite.uasset" 2023
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_05.uasset" 2024
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_06_Sprite.uasset" 2025
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_06.uasset" 2026
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_07_Sprite.uasset" 2027
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_07.uasset" 2028
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_08_Sprite.uasset" 2029
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_08.uasset" 2030
-"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 2031
-"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 2032
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/bush2_Sprite.uasset" 2033
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/bush2.uasset" 2034
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/stick_Sprite.uasset" 2035
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/stick.uasset" 2036
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/AvaCAToHouse_Sprite.uasset" 2037
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/AvaCAToHouse.uasset" 2038
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/3/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_0B1992AF49455362589A8D909F2E6DC6__1_0_0_0_2_13315_0.udd" 2039
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_0B1992AF49455362589A8D909F2E6DC6__1_0_0_0_2_13315_0.udd" 2040
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_CA7F3A164B9990AE7BC4E59A2A308E17__1_0_0_0_2_13315_0.udd" 2041
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_5AEEAF5D4B347D2B01A89FBE5DE7CB4F__1_0_0_0_2_13315_0.udd" 2042
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/5/AUDIO_0005_0000_OGG_0002_E31F11524DC1A60D76E727B1868C6A32.udd" 2043
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_22F954704ACB9185A8F610BC58DAE1AA__1_1_0_0_2_13315_0.udd" 2044
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_22F954704ACB9185A8F610BC58DAE1AA__1_1_0_0_2_13315_0.udd" 2045
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" 1758
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset" 1759
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Blueprints/Avacato_BP.uasset" 1760
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Blueprints/Gem_BP.uasset" 1761
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Blueprints/Giraffe_BP.uasset" 1762
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Widgets/DialogueWidget.uasset" 1763
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1764
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1765
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1766
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_CD2024A34BED374A71F8009AA6__1490AD1372D10284E0EF84B02D48ABB590D3B9F0.udd" 1767
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1768
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_F93A868C471D0DE82928079B96__C456523F9EAA9DBD2AE84CF12C7CFC72E9F417D6.udd" 1769
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1770
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/6/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_3C1AE2C048C12A663DA5BB8FAF__481B85422347F894B6895EC13002BFEB952DA9FF.udd" 1771
+"../../../Engine/Content/BasicShapes/Cone.uasset" 1772
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/8/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_2E98B72D4BA502DB719279B4BD__E33573A6F9C76E8884C9700401DD7A9A13BC5BD2.udd" 1773
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1774
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_8B63846543482A3CC5AED59FC7__B05EDF5B20BC41A8C88BEC70F18EAC54017DFAFD.udd" 1775
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 1776
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1777
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 1778
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 1779
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 1780
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 1781
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1782
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 1783
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Intermediate/AssetRegistryCache/fc0b6af2.bin" 1784
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset" 1785
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" 1786
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 1787
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScrollerBP/Blueprints/NewInterface.uasset" 1788
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Blueprints/DialogueAdvance.uasset" 1789
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Blueprints/Interact_I.uasset" 1790
+"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game.uasset" 1791
+"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_LevelBP.uasset" 1792
+"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Pawn.uasset" 1793
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset" 1794
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset" 1795
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 1796
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1797
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1798
+"../../../Engine/Content/FunctionalTesting/Blueprints/AITesting_MoveGoal.uasset" 1799
+"../../../Engine/Content/Sequencer/DefaultBurnInOptions.uasset" 1800
+"../../../Engine/Content/Tutorial/Basics/ContentBrowserOverview.uasset" 1801
+"../../../Engine/Content/Tutorial/Basics/FeaturePacks.uasset" 1802
+"../../../Engine/Content/Tutorial/Basics/ViewportsTutorial.uasset" 1803
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 1804
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 1805
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 1806
+"../../../Engine/Content/Tutorial/BlueprintTutorials/ClassBlueprintsEditorOverview.uasset" 1807
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 1808
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Class.uasset" 1809
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 1810
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 1811
+"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 1812
+"../../../Engine/Content/Tutorial/Foliage/FoliageWalkThrough.uasset" 1813
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1814
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 1815
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1816
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 1817
+"../../../Engine/Content/Tutorial/Installation/InstallingXCodeTutorial.uasset" 1818
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial.uasset" 1819
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part2.uasset" 1820
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part3.uasset" 1821
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.uasset" 1822
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge1.uasset" 1823
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge2.uasset" 1824
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 1825
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 1826
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 1827
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 1828
+"../../../Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset" 1829
+"../../../Engine/Content/Tutorial/Mobile/InstallingiTunesTutorial.uasset" 1830
+"../../../Engine/Content/Tutorial/Mobile/SettingUpLuminTutorial.uasset" 1831
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 1832
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 1833
+"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 1834
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1835
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 1836
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 1837
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 1838
+"../../../Engine/Content/Tutorial/SubEditors/PersonaWalkthrough.uasset" 1839
+"../../../Engine/Content/Tutorial/SubEditors/SkeletalMeshEditorWalkthrough.uasset" 1840
+"../../../Engine/Content/Tutorial/SubEditors/SkeletonModeWalkthrough.uasset" 1841
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1842
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 1843
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_AnimatedNode.uasset" 1844
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Animation.uasset" 1845
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 1846
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 1847
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SharedNode.uasset" 1848
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 1849
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Toggle.uasset" 1850
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimatedNode.uasset" 1851
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimation.uasset" 1852
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimNode.uasset" 1853
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 1854
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/BP_AnimationPlayer.uasset" 1855
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/ImportedSequencesHelper.uasset" 1856
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationPlayer.uasset" 1857
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/BP_VariantSelector.uasset" 1858
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantsSelector.uasset" 1859
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 1860
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithAreaLight.uasset" 1861
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 1862
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 1863
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 1864
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Widgets/DialogueWidget_C.uasset" 1865
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Widgets/Score.uasset" 1866
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Widgets/WinWidget.uasset" 1867
+"../../../Engine/Content/Sequencer/DefaultBurnIn.uasset" 1868
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/AnimationSampleUI.uasset" 1869
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/VREDAnimationSampleUI.uasset" 1870
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/VREDVariantSampleUI.uasset" 1871
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset" 1872
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 1873
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 1874
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/4/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___156035BC7A18B0D1B85A023B77120D1B713F081F.udd" 1875
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/0/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___993B697AF49D87FC3C7641A1E688BD1B1B5ECF50.udd" 1876
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/3/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___DEDF2473877BDBB5729ECE9A5CC262C44BB501E4.udd" 1877
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/0/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___CF08083927D3C72D9F8284BBEE93B422B0B8D89B.udd" 1878
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/9/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___FC56925FC75F73B234E89862722662ECE59D239A.udd" 1879
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/6/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___E559BBC65B1DF63375E1ABBCE346F4FA0581A602.udd" 1880
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/2/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___E6BB567992B17A70928809021ABCB71ED321BB4A.udd" 1881
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/7/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___82526851F11E9368B313F735A5743466032BA518.udd" 1882
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/6/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___A236CD977DD1554CCC4C2874D1E105AF676C6867.udd" 1883
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/6/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___5910A9D7FB707FAA816124FCF715B2172289392C.udd" 1884
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/5/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___01400C9B50201FF097F0961B0A750A9CF5D55FCF.udd" 1885
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/2/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___6EE0952AE1953E60EFEC369FEE91C2EF8BFA3371.udd" 1886
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/8/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___AAF054DF2753556D3936A4BED23F02EE1075C08A.udd" 1887
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/9/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___3077A7A8DDF7F94E3B85F5533C2860DBDF9D6BFD.udd" 1888
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/0/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___28D0DDF1909459070FAC6E93F6A216548B59DFDB.udd" 1889
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/3/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___A1D16861F89DC10FCA75C1EC4F84015B9CE26844.udd" 1890
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/5/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___142627F20BC91C95E4A87DD6E50B51844C736228.udd" 1891
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/7/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___83E7E78239577F12478E37063C73906DD1B4E651.udd" 1892
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/0/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___051DB4119DBB4FA01023321AAC8C340599D10D80.udd" 1893
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/4/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___236486D065733ABD6C0DE5D3A68137909EF1352F.udd" 1894
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/9/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___BEA2BAA35F1B7EAC1BF2A9CF1A4D135434C943C1.udd" 1895
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/6/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___885A452F23AC67BFDAEB99866658840F211C5168.udd" 1896
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/9/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___9BEF027FF712E2E7E42DA47B115ED74809384AD7.udd" 1897
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/7/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___65A5DD9CDDE31811B257055AD5E1C16C823C8859.udd" 1898
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/8/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___54BD213FF5AE2659ECDBA5944AE83A1745441A81.udd" 1899
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/6/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___B6EBD8ED2880E386C13F41BE058D0CB213B14345.udd" 1900
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/5/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___A66E4017E25637AE8F27BDCE7A6ED77A9CA603AF.udd" 1901
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/0/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___CBBA1C9F89C4E13489F3C0229D1066633F4E3D91.udd" 1902
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/0/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___27A8E72EA395F81A70E7874E2B02DE19DBF7E162.udd" 1903
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/8/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___944FE5CDBFF9F21A0317F40964D0E9EFF3B3BAF9.udd" 1904
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/8/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___5E7E224CBFD3E159AD66F94A2EAFB85287099A98.udd" 1905
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/4/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___6E78827C3D6669BA4CD70C7BB49514920D8E0F48.udd" 1906
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/4/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___4FEAA2E69F751C67C0FA85F71956AD9AE27F6410.udd" 1907
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/0/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___AB51B6C88BD61ABBBBBAF1B0045E018791ACB894.udd" 1908
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/5/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___92D13303F2334BF981DC5151302583A473126A21.udd" 1909
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/0/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___5F2B71EE94930F2DE2950E68845E9A19EAA3AD13.udd" 1910
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/6/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___C29CAC599415794200E491A398A372FB8A9F04F9.udd" 1911
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/4/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___AE2E761EC68801E12A9AB241C4E7A9C01EE3FF74.udd" 1912
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/6/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___1EB275CAA7369B3205A18133FC90D7CF197599D4.udd" 1913
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___8924492EF344BAB7DF5FC91FE7B3E9CDA6311D45.udd" 1914
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/2/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___732CBEA6E284143065D4776B7378DBB1B143EB77.udd" 1915
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/3/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___C168FDD882DF3769A352F3A8D3B4C3BC3D434DD8.udd" 1916
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/1/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___E718E473021A0B502230DACF70F45A6F4AB86B42.udd" 1917
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/9/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___F055F450E051096D2D3F24F71299F12AEA147CA4.udd" 1918
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/8/GSM_45EDF9DF531B4E7989EB97AF45C38B3E_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRIS___2BAF0C01F3648471241072737B3AC03CA85F725F.udd" 1919
+"../../../Engine/Config//BaseEngine.ini" 1920
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1921
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1922
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1923
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_5216118D4EACC7D4064ADCBA89F7720__3C4F31C5418B4D4385A6FE52A722FA1E3A4B1445.udd" 1924
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_5216118D4EACC7D4064ADCBA89F7720__9C46323653988636610A9F8B93BAE96EB715EDCE.udd" 1925
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_C6F046E346DE53E9987E70930FC6D31__39D27E035CEEC4BF01E88A92490257E3ACD4A224.udd" 1926
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/7/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_572BACBB4C0F7A7E5E958FB3CA__36F02B9058B40F552FEB297535D0F6413F951D15.udd" 1927
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_47C1133249E93D7CF59DA4BCB101ADE__0F071408EA6DE377FD7FE25CB927AFE4CE4DF6E5.udd" 1928
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/9/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__DCD3E05E54B6440AB7EACD04B1BBF8CE20A3AE2C.udd" 1929
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/0/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__5643EFF9F6CCD7014883D3F0678790FF2B559986.udd" 1930
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT5_565E0359430950FA252A118AF8521636__A2B7DA5AF2F83B5F37D733AACC6B5CDB73933BA9.udd" 1931
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT5_565E0359430950FA252A118AF8521636__92D4F566738A31ED3AC551DEF2DDDA90D68EE749.udd" 1932
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT5_565E0359430950FA252A118AF8521636__7E1FFF24CB0A9D3D3044AF6B18E80965527DC833.udd" 1933
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/1/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__232641127E912E0F3016AC51A7AEEDAA1E0DF903.udd" 1934
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/9/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__5F8814D3B4A81EA0CDFB10AFD7065913ECABD07B.udd" 1935
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/6/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__AFFDA331A70BBB4D63E3D00BD368BDFCE13584B8.udd" 1936
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/2/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__E5D5E80B16DDFBB457D5F1A70FAF96978A2A57DC.udd" 1937
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_D0FECEC94BB5E3DA0C23C4AB41A933F__5CCBD3F8461651E3485A74B6468FBE6386B60927.udd" 1938
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_D0FECEC94BB5E3DA0C23C4AB41A933F__665400119B7314FC8A7BEE86E3E8F493888A7700.udd" 1939
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_D0FECEC94BB5E3DA0C23C4AB41A933F__2BCF251F66570B212AEBAC6AB0DB8BF4E67377EE.udd" 1940
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/4/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__386BECF0D93F89BD8AEE79A621C43B6A1A70C3DA.udd" 1941
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_687091CC4AA2E8FC0F9056A1BE61186C_0__7D7C7CE19953A5426ABB1A4AAE90DF01F2B0AD4E.udd" 1942
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_BEA72D4149C0786E82EA7E862212708__8AB6692593033E8E184174D40D13CEC8AC514E08.udd" 1943
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_03B0782E43A4D3C2AFA298B72B__B0BC4156D32CF2D32061336620DA29FDBDD3D9BA.udd" 1944
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/1/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__25AB2884AB4822DFAAA5C8B33CC86BB89C90666B.udd" 1945
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/5/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__21BFDDCD1A629B47897074301ECB00229C59A370.udd" 1946
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/LinzeySketch_Flipbook.uasset" 1947
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/LinzeySketch_Sprite.uasset" 1948
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1949
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/LinzeySketch.uasset" 1950
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/Giraffe_Sprite.uasset" 1951
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/Giraffe.uasset" 1952
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/3/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__534B2C79D87217DF62CBAB38CD8671DFC083A169.udd" 1953
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_6BB8BABF4A008D3899A97ABF90F135E__B795CDFC7DC8B62BB895C8FE42B9B7B91916C3D9.udd" 1954
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_74FAEC504F62A2030BE6E9A24CF507B__92C233FCBF1969CC4F131051215CC8310D225A50.udd" 1955
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_68F96D6E4F7269E4AD14B2B016__CC5C2631F36D066BA5CD5D2E6BB6ADE7A91C0D0F.udd" 1956
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/1/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__6D0A03272C4ACA172588F9887229B7F1EB7C1918.udd" 1957
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/2/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__C608A5FE5D082DFA2E7D46715F8A236AB23ED09C.udd" 1958
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_8BCFCFC24E0DF8EF018F38A90F__2CD085385C6F4EC9C63F4B7ADAA20E526E228BA5.udd" 1959
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_A45AC5F24F727E508B7132ADC0__EDDCE9B9AF5156FC99B9DAFCBBC2F2EFD9E32AF6.udd" 1960
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/8/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__B01DE8529032A31F7F5EB91B58F8959F2ECD972B.udd" 1961
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_C7E16BC44EBF283831F3C1844D__4B86C5DEB1CFAF46D96B59B25E756C8522914C8F.udd" 1962
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/6/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__C3E4F35F85D3944A2490692346270E964F1464AF.udd" 1963
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_F260EC324774DCAE6A79CD8375__FFF80B42A56430035E6B733303C29992A80C78BB.udd" 1964
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/8/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_52AECB5F44307B68A160C3A844__B73BC569FF942639A8BEB2C2C2E06DD856C750E9.udd" 1965
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_688DE534429542F2A282749F0E__6924F43219ECF7850FFF0EEB9DAED9505181D31C.udd" 1966
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_0EAA33D84B2C00A4EF99379D61__42A0A5859026771C5D07D0E76C2043932FB61564.udd" 1967
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/6/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_EFC97AF34787426E181448A12D__19E83D37205101AD733945136520314943769585.udd" 1968
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/3/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_ED0028A248A57D12896F708C02__FADDB8A6D03154183B0AEDDCC673444CE27922EB.udd" 1969
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/5/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__BFFC7F5E777052A36B19F218BC6B1FDA7FFF7A66.udd" 1970
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_B19E8D43472CA8B277E8CCA8993996A__2197A55A928B12CF33DCD5F3CCFBAB5F2C032638.udd" 1971
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_056A03A5436F9F05D7AA329082E3874__E3B7BE61DB046D467AB90F6727CDA8BEEC8068D0.udd" 1972
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_7878859F4A9996EB41A8A4B02F__761994D3E96C6C7F45CCC56867AFC2129FF0527F.udd" 1973
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_D3CEBA6D46C9A259115E97AB0F4C15D__93023CB6C409DDA8A21022D291B9EB5FA84B07E4.udd" 1974
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_2140CA5B4637C285519D6D91BA9973B__E701F8295A42BB7AD38363BFD3408F087D8D6B36.udd" 1975
+"../../../Engine/Content/Maps/Entry.umap" 1976
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1977
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/3/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_C6F7EA2A495BE03C3BAF42B257494BE6__1_0_0_0_3_13315_0.udd" 1978
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/8/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_877145D1422EE3EA54EABAB94BD216AE__1_0_0_0_3_13315_0.udd" 1979
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_6C14CC144C153FD7E97FE88477D954B5__1_0_0_0_3_13315_0.udd" 1980
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_8B2471EE4EADD31BE60A44A5464F8409__1_0_0_0_3_13315_0.udd" 1981
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/1/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__6254E15DD72EDF3C1D7E0370DBA493862D7F63FC.udd" 1982
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_0B92E78C4DB1EF7D0C58D2A05F__A611A6983ADED23E92077BF38B0B678976879213.udd" 1983
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/7/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__FFF93B5637854EB599C5E1E78111EE8DE38F6B07.udd" 1984
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_612EB907447B1AC8462FDA88A5704C7__31C55FF310D72D05883749D206F9EEAB66A6B83B.udd" 1985
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_612EB907447B1AC8462FDA88A5704C7__B8AA4C940C5C071C875DAD796005E6D8ECC39728.udd" 1986
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_612EB907447B1AC8462FDA88A5704C7__378AB8CBF2B0FA14E2F721B8CBDC25FF24D8E690.udd" 1987
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_73D0B8C142852F93251ED0AF97E9741__B83FF5B40E900B51AF4F03F0E2BD36D428FBDADF.udd" 1988
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_73D0B8C142852F93251ED0AF97E9741__3947090842AAF1AE87C6F3B6D6888E115A6CE283.udd" 1989
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_73D0B8C142852F93251ED0AF97E9741__4713783FF98B042CC873EBE53239838C13088B87.udd" 1990
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_9D800FD44039E87C95EE86A0316AA3B__887B2FD921BFA070D8000116AA7E2EF33907F189.udd" 1991
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/0/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__2134FABFEB2F7650631D80464462925BC8BEDEFC.udd" 1992
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/0/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__BD10E803301AB0AF6D56F204D96A25751C15103D.udd" 1993
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/2/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__9494D20C3B4891C41FA7DB9E30CA95F158F0BDEE.udd" 1994
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/3/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__07FD9EF88AA9C8B60A5437B649A3A106811FF063.udd" 1995
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/3/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__5640861939310F412296FD52D2C8ED726A599368.udd" 1996
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__342CA0A3AC71E09C935F073E39F65A7E3B55E1A5.udd" 1997
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/8/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__D72DEB453D96C7A89F5E04B06171EF1BB8BA7201.udd" 1998
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_52C2D2044F80407BBABA8CB2BA04F4F__B2A646F045EC2EE8F390A30A6A45CD37600E3DA5.udd" 1999
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_A28EC0C4486158C85466808599E49A4__C884F08D38E466414E4C9DBE9723FA71ABADB4EB.udd" 2000
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_9B0249994A9B1B14D96CD7BB7A90FB3__F2157F6DCDC4652F831B20645CEC1546D5C4D169.udd" 2001
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/1/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__73F8CA88BF97AE92EB402F1C477718DFD2D76D8B.udd" 2002
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/7/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__8B42D1C5D3E30B23DC6CE9F5EDF43E254ED31A63.udd" 2003
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScrollerBP/Blueprints/Dialogue_Sheet.uasset" 2004
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScrollerBP/Blueprints/DialogueStructure.uasset" 2005
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/Avacato_sm_Sprite.uasset" 2006
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/Avacato_sm.uasset" 2007
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Sounds/Gem_Final.uasset" 2008
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_FB.uasset" 2009
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_01_Sprite.uasset" 2010
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_01.uasset" 2011
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_02_Sprite.uasset" 2012
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_02.uasset" 2013
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_03_Sprite.uasset" 2014
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_03.uasset" 2015
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_04_Sprite.uasset" 2016
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_04.uasset" 2017
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_05_Sprite.uasset" 2018
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_05.uasset" 2019
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_06_Sprite.uasset" 2020
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_06.uasset" 2021
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_07_Sprite.uasset" 2022
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_07.uasset" 2023
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_08_Sprite.uasset" 2024
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Gems/Gem_08.uasset" 2025
+"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 2026
+"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 2027
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/bush2_Sprite.uasset" 2028
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/bush2.uasset" 2029
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/stick_Sprite.uasset" 2030
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/stick.uasset" 2031
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Sounds/Ambience_mixdown.uasset" 2032
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/AvaCAToHouse_Sprite.uasset" 2033
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/AvaCAToHouse.uasset" 2034
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/pixiedustbag_Flipbook.uasset" 2035
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/pixiedustbag_Sprite.uasset" 2036
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/pixiedustbag.uasset" 2037
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Satelite_Flipbook.uasset" 2038
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Satelite_Sprite.uasset" 2039
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/Textures/Satelite.uasset" 2040
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/3/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_0B1992AF49455362589A8D909F2E6DC6__1_0_0_0_2_13315_0.udd" 2041
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_0B1992AF49455362589A8D909F2E6DC6__1_0_0_0_2_13315_0.udd" 2042
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_CA7F3A164B9990AE7BC4E59A2A308E17__1_0_0_0_2_13315_0.udd" 2043
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_5AEEAF5D4B347D2B01A89FBE5DE7CB4F__1_0_0_0_2_13315_0.udd" 2044
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_5AEEAF5D4B347D2B01A89FBE5DE7CB4F__1_0_0_0_2_13315_0.udd" 2045
 "C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/8/AUDIO_0005_0000_OGG_0002_6A555366478E9070EFC1BC9B29BB467C.udd" 2046
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_5AEEAF5D4B347D2B01A89FBE5DE7CB4F__1_0_0_0_2_13315_0.udd" 2047
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 2048
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 2049
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4F77DFF34DD9DA953F12DB84D8749__A9DED2F6975C20A6B5D38B4F64E6997FBD2FAABD.udd" 2050
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4F77DFF34DD9DA953F12DB84D8749__EC763EBFC04CE808047E75C09C23EA66F09A728A.udd" 2051
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4F77DFF34DD9DA953F12DB84D8749__4B3FB8DE923D7F0ECC0F0F30CFDA18D130E6BD3D.udd" 2052
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/5/AUDIO_0005_0000_OGG_0002_E31F11524DC1A60D76E727B1868C6A32.udd" 2047
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXGENERIC_22F954704ACB9185A8F610BC58DAE1AA__1_1_0_0_2_13315_0.udd" 2048
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_22F954704ACB9185A8F610BC58DAE1AA__1_1_0_0_2_13315_0.udd" 2049
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 2050
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 2051
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4F77DFF34DD9DA953F12DB84D8749__A9DED2F6975C20A6B5D38B4F64E6997FBD2FAABD.udd" 2052
 "C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4F77DFF34DD9DA953F12DB84D8749__4016BB15B96888CB6CA6AC9D9A4682215CB2132D.udd" 2053
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E3DC81EB407F9F3C8BAFCE9084179__490F5C896671A84F0F624551F54821F580EE3B30.udd" 2054
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E3DC81EB407F9F3C8BAFCE9084179__EF7EF0BEE57375F6C52FD4443E52461FFD10332B.udd" 2055
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E3DC81EB407F9F3C8BAFCE9084179__CDD13F9D2049C9C7CAAA014A2FFE81A3712C1B29.udd" 2056
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E3DC81EB407F9F3C8BAFCE9084179__D40C64ED48DB9FA30701DC5DE0B9628C18292642.udd" 2057
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E3DC81EB407F9F3C8BAFCE9084179__60101718E31F31445353C025738FBDDB4EA7DD4A.udd" 2058
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_152FE4DA4E623921851871B8C34FD24__3DA103B42B0353666E65452195AD83EDEE038C40.udd" 2059
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_05F9D7A748550CC353C50697043699A__2EB52B6558B1F057B4987EC4D4258B63B4098BA1.udd" 2060
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_B7AD00F8477B5B2C5777A6844C0A996__A3BBD83F1FECF0F2636C8CFDC7A50712AD6D5941.udd" 2061
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_B7AD00F8477B5B2C5777A6844C0A996__7D99FBBB583F4EE66EDD7C84DAD84113519D00E5.udd" 2062
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3DF1A6FF4C9A6D24A6AA838D7F96B__7A7FA8CCEBC6E4CD297636199144A4631D7AF357.udd" 2063
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3DF1A6FF4C9A6D24A6AA838D7F96B__D0F578D47C4C90587D1F38DCE54BC0ECE0F89915.udd" 2064
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C66224EB433D9D4683968FB265E53__F936FC879CED4635287570928CCB8C1431F2F8D6.udd" 2065
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C66224EB433D9D4683968FB265E53__0184DDAB085643A7BE0E347C5FB02C181B7BE939.udd" 2066
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3DF1A6FF4C9A6D24A6AA838D7F96B__0F1DB49B279857AA27BDAECED95723D5150C433A.udd" 2067
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_B7AD00F8477B5B2C5777A6844C0A996__1C0D1EF89994B59944B31C5053EC9ED6E2357A1C.udd" 2068
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3DF1A6FF4C9A6D24A6AA838D7F96B__FE1987DA761B2514A68305563B2606E94BD33483.udd" 2069
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C66224EB433D9D4683968FB265E53__C99944B3633BD824C66F38AA042889C2B2598F80.udd" 2070
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A02A3FC74358D52710F23A881999D__0B0F73552B775E9ED735131E8DB238758271D63F.udd" 2071
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C66224EB433D9D4683968FB265E53__4ED26889AB82C05FC0E0E6816E3BC2718BA9488B.udd" 2072
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A02A3FC74358D52710F23A881999D__66A1C9F347C53C6F9C26677A2E6D61F6BDB2E201.udd" 2073
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A02A3FC74358D52710F23A881999D__A749BFEF6EC5F37EF5CDCF5AC999DA2C1D129DDB.udd" 2074
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D61EB3124A9E9A96CBCA5AA36B860__8F0598368B85908B58F13FEBD84E77AD4401C428.udd" 2075
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A02A3FC74358D52710F23A881999D__9CE428B0639F629DCC5F6D3070B76BCD1E480BA0.udd" 2076
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D61EB3124A9E9A96CBCA5AA36B860__3AB5EA2900A46D742967BF40BBEEBD4CD963F047.udd" 2077
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D61EB3124A9E9A96CBCA5AA36B860__88AD783F9FD39ED52FE5FC0675E17122BD495DE6.udd" 2078
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D61EB3124A9E9A96CBCA5AA36B860__FB75FF57A21888F724A669CC8AF55504F3AB116C.udd" 2079
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDD4E9094659F88E0B19ECA656E54__338FC220DDE47C89D36E54975AF00F3375DB2F44.udd" 2080
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDD4E9094659F88E0B19ECA656E54__ED8EE792E9BCF83D35996A445E0E45B5E7D9E206.udd" 2081
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDD4E9094659F88E0B19ECA656E54__932091730434358E7FAF2459ED843FB92CB2E7D6.udd" 2082
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDD4E9094659F88E0B19ECA656E54__53F0840E0731FF90C8DE1AA6002A99DD602FECAE.udd" 2083
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_28C861834789C277CF8A318624397__F1E5F21C4A9E03C9D380F2F349DA5DAB571C4ACF.udd" 2084
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_28C861834789C277CF8A318624397__3BAB2BC024D4D029DB284FFB3E4A4CE16715C545.udd" 2085
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_28C861834789C277CF8A318624397__320C9409395F8501792E50DF1B313177ED82D02C.udd" 2086
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_28C861834789C277CF8A318624397__F1FF865FA64FEAAD75B4B1CE8BC992C134290C05.udd" 2087
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3E5E57F84F8CA8A7DB03D8ADB281D__34A7076E520F8C7270A56AB7002C50C3221FFF3C.udd" 2088
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3E5E57F84F8CA8A7DB03D8ADB281D__E5EFDFB8E0CF6C8BCCEED294FE5BC4C3A7081222.udd" 2089
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3E5E57F84F8CA8A7DB03D8ADB281D__4DBD2C39765E7F8CF14A11E696B75835AECA0A5C.udd" 2090
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3E5E57F84F8CA8A7DB03D8ADB281D__79EF0A2D88E639C1D0268379C3784D6549103BF8.udd" 2091
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D83FC32A4FB48DE59B6FD99A8630E__ABD0A83BC1B116DF7F4E9D75D0B272949EDD9B09.udd" 2092
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D83FC32A4FB48DE59B6FD99A8630E__5FAE8CAF45DDAC38C227D228EBBB91C238932BFD.udd" 2093
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D83FC32A4FB48DE59B6FD99A8630E__FA5CAE16E8A547063E7D50D635E4B78F0395AF32.udd" 2094
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D83FC32A4FB48DE59B6FD99A8630E__C23D2F033D26C9A49E7D57760793FA1AF10EE118.udd" 2095
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_A91B62CA4AEE1BC9AB4220BFF7399ED__4B94FD9402237872E2BE25C53BA27AED005A7596.udd" 2096
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/2/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__28102F224DA8F370B7F24DDC363D0E12F07698DB.udd" 2097
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_BD2910D742B4B4778E3374B97767851__BFFE2A70F91E98F72784A1B721B0B59DDA472787.udd" 2098
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_2303080240B4FBC995EC43ABAA9A8C6__CE5DCFF6DE20C8BA871E6A6936F7A7919F39E1D5.udd" 2099
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 2100
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/8/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__85D77968D626898457FA2F309F3FB192A94444BC.udd" 2101
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_9E839E0E4933277AAB67FB869C14F9A__FF19AE242AACA7CBEA1F98BC8D8348665B784230.udd" 2102
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 2103
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 2104
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/3/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__4DB8EFA61E009D280BD0495FB27BAD234B61A900.udd" 2105
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_EFCCE016429008D9D6575CB3A2DF598A_0__ED50F64A0D40763A554CFA82B7F71F202778C6CA.udd" 2106
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_EFCCE016429008D9D6575CB3A2DF598A_0__7584C135F05428BB60EBE6F3A62A8860FAA17210.udd" 2107
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_EFCCE016429008D9D6575CB3A2DF598A_0__EF77519BDA06B1644AD3A6D827F44643A7C6AE14.udd" 2108
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_EFCCE016429008D9D6575CB3A2DF598A_0__74AAA6DA428967D3EFF192BD989736855046C0AC.udd" 2109
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 2110
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__B9BEC8776C88CF44164CCAC83D09C96FFE17C02E.udd" 2111
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 2112
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/9/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__F20531D09CA0EA1C1F235B3160B433678563F73D.udd" 2113
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 2114
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/0/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__AA91E806CE2C27EFE2C3762C72635DA12ACEE55B.udd" 2115
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 2116
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 2117
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/3/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__E62812FC60BF1B51227D1FDB468CBBBCE87B4B98.udd" 2118
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_300F91D746B84377794E1FA74622CC3__58FD5C3B232233F530BA07C6705703CD6004C53D.udd" 2119
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_300F91D746B84377794E1FA74622CC3__14ADB8E34A2E98C8F8DCCE322087E721F0AC41BD.udd" 2120
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_300F91D746B84377794E1FA74622CC3__E31F133B34EE307B12ED5E2BB06E205127413EC0.udd" 2121
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_300F91D746B84377794E1FA74622CC3__CAE4F6648E0173AC02E81AFC3EF9E00C9D20D90D.udd" 2122
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 2123
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__DD94088ADA8A20BCB2BAEC70358B509C5A2A1E08.udd" 2124
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 2125
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 2126
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_9F5B2DF1453DB1272733529F5E95869__865F4DFF27C87C195E701D78E507A15AAD8CAEBE.udd" 2127
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 2128
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_A4535AA24BB699361857049E2A844B2__1928B3E21AD60865D7E26FB3CEC8B38EE1A6A14C.udd" 2129
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 2130
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 2131
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 2132
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 2133
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 2134
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 2135
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 2136
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 2137
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 2138
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 2139
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 2140
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 2141
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 2142
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 2143
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset" 2144
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_83F875724EA0A8F88F727AAA3824BFC__FCB1C50E1FD9A3AA9C4263360B13E70B682F4811.udd" 2145
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset" 2146
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_46B8DD4D436052DA4522BDB4039A698__7801B1366E0C52D3F24C0BAC3EE9D3C8DE9F8BBC.udd" 2147
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/2DBackgroundTile.uasset" 2148
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D1E814BA40821C40AD8995ADAEF38__D721371768CAC56DCEEEC6DC002042773075B49D.udd" 2149
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/2DBackgroundBlockAtlas.uasset" 2150
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/2DBackground.uasset" 2151
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_ECDFBF554446916EB516608CE6C1703__6C947215FAAE9AC040B2F1DC517CB3C84C4DDA30.udd" 2152
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_9.uasset" 2153
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_8.uasset" 2154
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_7.uasset" 2155
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_6.uasset" 2156
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_5.uasset" 2157
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_4.uasset" 2158
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_3.uasset" 2159
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_2.uasset" 2160
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_16.uasset" 2161
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_15.uasset" 2162
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_14.uasset" 2163
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_13.uasset" 2164
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_12.uasset" 2165
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_11.uasset" 2166
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_10.uasset" 2167
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_1.uasset" 2168
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle8.uasset" 2169
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle7.uasset" 2170
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle6.uasset" 2171
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle5.uasset" 2172
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle4.uasset" 2173
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle3.uasset" 2174
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle2.uasset" 2175
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle1.uasset" 2176
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunningAnimation.uasset" 2177
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/PrototypingSprite.uasset" 2178
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2dSideScroller/Materials/PrototypingSpriteMaterial.uasset" 2179
-"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/2/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__1E3CFC29D6683495778576F96AC676BACA0D7F32.udd" 2180
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/Ledge.uasset" 2181
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleAnimation.uasset" 2182
-"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/Background_Sprite.uasset" 2183
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4F77DFF34DD9DA953F12DB84D8749__EC763EBFC04CE808047E75C09C23EA66F09A728A.udd" 2054
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4F77DFF34DD9DA953F12DB84D8749__4B3FB8DE923D7F0ECC0F0F30CFDA18D130E6BD3D.udd" 2055
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_23129FAC4D395691BDA0EFA22CAF0__529019E4D9C12EBFA7666E6A7982386B283AB7B5.udd" 2056
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_23129FAC4D395691BDA0EFA22CAF0__B53EC04E9F5A9BD6A105E5E9A501186FA2B882AE.udd" 2057
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_23129FAC4D395691BDA0EFA22CAF0__2E3B4CFCB9B679EDD9F90B52A99457D05567F7E6.udd" 2058
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_23129FAC4D395691BDA0EFA22CAF0__E65F5F2951A18A80330691CC4F5138D883FA7882.udd" 2059
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E3DC81EB407F9F3C8BAFCE9084179__490F5C896671A84F0F624551F54821F580EE3B30.udd" 2060
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E3DC81EB407F9F3C8BAFCE9084179__CDD13F9D2049C9C7CAAA014A2FFE81A3712C1B29.udd" 2061
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E3DC81EB407F9F3C8BAFCE9084179__EF7EF0BEE57375F6C52FD4443E52461FFD10332B.udd" 2062
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E3DC81EB407F9F3C8BAFCE9084179__D40C64ED48DB9FA30701DC5DE0B9628C18292642.udd" 2063
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E3DC81EB407F9F3C8BAFCE9084179__60101718E31F31445353C025738FBDDB4EA7DD4A.udd" 2064
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_152FE4DA4E623921851871B8C34FD24__3DA103B42B0353666E65452195AD83EDEE038C40.udd" 2065
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_05F9D7A748550CC353C50697043699A__2EB52B6558B1F057B4987EC4D4258B63B4098BA1.udd" 2066
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_B7AD00F8477B5B2C5777A6844C0A996__A3BBD83F1FECF0F2636C8CFDC7A50712AD6D5941.udd" 2067
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_B7AD00F8477B5B2C5777A6844C0A996__7D99FBBB583F4EE66EDD7C84DAD84113519D00E5.udd" 2068
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_B7AD00F8477B5B2C5777A6844C0A996__1C0D1EF89994B59944B31C5053EC9ED6E2357A1C.udd" 2069
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3DF1A6FF4C9A6D24A6AA838D7F96B__7A7FA8CCEBC6E4CD297636199144A4631D7AF357.udd" 2070
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3DF1A6FF4C9A6D24A6AA838D7F96B__D0F578D47C4C90587D1F38DCE54BC0ECE0F89915.udd" 2071
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3DF1A6FF4C9A6D24A6AA838D7F96B__0F1DB49B279857AA27BDAECED95723D5150C433A.udd" 2072
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3DF1A6FF4C9A6D24A6AA838D7F96B__FE1987DA761B2514A68305563B2606E94BD33483.udd" 2073
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C66224EB433D9D4683968FB265E53__F936FC879CED4635287570928CCB8C1431F2F8D6.udd" 2074
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C66224EB433D9D4683968FB265E53__0184DDAB085643A7BE0E347C5FB02C181B7BE939.udd" 2075
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C66224EB433D9D4683968FB265E53__4ED26889AB82C05FC0E0E6816E3BC2718BA9488B.udd" 2076
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_C66224EB433D9D4683968FB265E53__C99944B3633BD824C66F38AA042889C2B2598F80.udd" 2077
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A02A3FC74358D52710F23A881999D__0B0F73552B775E9ED735131E8DB238758271D63F.udd" 2078
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A02A3FC74358D52710F23A881999D__A749BFEF6EC5F37EF5CDCF5AC999DA2C1D129DDB.udd" 2079
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A02A3FC74358D52710F23A881999D__9CE428B0639F629DCC5F6D3070B76BCD1E480BA0.udd" 2080
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A02A3FC74358D52710F23A881999D__66A1C9F347C53C6F9C26677A2E6D61F6BDB2E201.udd" 2081
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D61EB3124A9E9A96CBCA5AA36B860__8F0598368B85908B58F13FEBD84E77AD4401C428.udd" 2082
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D61EB3124A9E9A96CBCA5AA36B860__3AB5EA2900A46D742967BF40BBEEBD4CD963F047.udd" 2083
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D61EB3124A9E9A96CBCA5AA36B860__88AD783F9FD39ED52FE5FC0675E17122BD495DE6.udd" 2084
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D61EB3124A9E9A96CBCA5AA36B860__FB75FF57A21888F724A669CC8AF55504F3AB116C.udd" 2085
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDD4E9094659F88E0B19ECA656E54__338FC220DDE47C89D36E54975AF00F3375DB2F44.udd" 2086
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDD4E9094659F88E0B19ECA656E54__ED8EE792E9BCF83D35996A445E0E45B5E7D9E206.udd" 2087
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDD4E9094659F88E0B19ECA656E54__932091730434358E7FAF2459ED843FB92CB2E7D6.udd" 2088
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DDD4E9094659F88E0B19ECA656E54__53F0840E0731FF90C8DE1AA6002A99DD602FECAE.udd" 2089
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_28C861834789C277CF8A318624397__F1E5F21C4A9E03C9D380F2F349DA5DAB571C4ACF.udd" 2090
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_28C861834789C277CF8A318624397__F1FF865FA64FEAAD75B4B1CE8BC992C134290C05.udd" 2091
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_28C861834789C277CF8A318624397__320C9409395F8501792E50DF1B313177ED82D02C.udd" 2092
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_28C861834789C277CF8A318624397__3BAB2BC024D4D029DB284FFB3E4A4CE16715C545.udd" 2093
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3E5E57F84F8CA8A7DB03D8ADB281D__34A7076E520F8C7270A56AB7002C50C3221FFF3C.udd" 2094
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3E5E57F84F8CA8A7DB03D8ADB281D__E5EFDFB8E0CF6C8BCCEED294FE5BC4C3A7081222.udd" 2095
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3E5E57F84F8CA8A7DB03D8ADB281D__79EF0A2D88E639C1D0268379C3784D6549103BF8.udd" 2096
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_3E5E57F84F8CA8A7DB03D8ADB281D__4DBD2C39765E7F8CF14A11E696B75835AECA0A5C.udd" 2097
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D83FC32A4FB48DE59B6FD99A8630E__ABD0A83BC1B116DF7F4E9D75D0B272949EDD9B09.udd" 2098
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D83FC32A4FB48DE59B6FD99A8630E__C23D2F033D26C9A49E7D57760793FA1AF10EE118.udd" 2099
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D83FC32A4FB48DE59B6FD99A8630E__FA5CAE16E8A547063E7D50D635E4B78F0395AF32.udd" 2100
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D83FC32A4FB48DE59B6FD99A8630E__5FAE8CAF45DDAC38C227D228EBBB91C238932BFD.udd" 2101
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_A91B62CA4AEE1BC9AB4220BFF7399ED__4B94FD9402237872E2BE25C53BA27AED005A7596.udd" 2102
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/3/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__F388548A35B8D6B1BAE238945D67FD1778888F75.udd" 2103
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/2/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__28102F224DA8F370B7F24DDC363D0E12F07698DB.udd" 2104
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 2105
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/8/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__85D77968D626898457FA2F309F3FB192A94444BC.udd" 2106
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_29477CA14DD9837C5C860B8C2BE4EA4__CA17D328BB2552B19258594EA9346B32D08C0753.udd" 2107
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_9E839E0E4933277AAB67FB869C14F9A__FF19AE242AACA7CBEA1F98BC8D8348665B784230.udd" 2108
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_29477CA14DD9837C5C860B8C2BE4EA4__CB1FC74E399FDFFDBA22E9DFDC4298F5736B3A1D.udd" 2109
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_29477CA14DD9837C5C860B8C2BE4EA4__E0768054DB964C77BF7B1A215572E1C84EC11395.udd" 2110
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_BD2910D742B4B4778E3374B97767851__BFFE2A70F91E98F72784A1B721B0B59DDA472787.udd" 2111
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_2303080240B4FBC995EC43ABAA9A8C6__CE5DCFF6DE20C8BA871E6A6936F7A7919F39E1D5.udd" 2112
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 2113
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 2114
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/3/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__4DB8EFA61E009D280BD0495FB27BAD234B61A900.udd" 2115
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_EFCCE016429008D9D6575CB3A2DF598A_0__ED50F64A0D40763A554CFA82B7F71F202778C6CA.udd" 2116
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_EFCCE016429008D9D6575CB3A2DF598A_0__EF77519BDA06B1644AD3A6D827F44643A7C6AE14.udd" 2117
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_EFCCE016429008D9D6575CB3A2DF598A_0__7584C135F05428BB60EBE6F3A62A8860FAA17210.udd" 2118
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_EFCCE016429008D9D6575CB3A2DF598A_0__74AAA6DA428967D3EFF192BD989736855046C0AC.udd" 2119
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 2120
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__B9BEC8776C88CF44164CCAC83D09C96FFE17C02E.udd" 2121
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 2122
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/9/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__F20531D09CA0EA1C1F235B3160B433678563F73D.udd" 2123
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 2124
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/0/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__AA91E806CE2C27EFE2C3762C72635DA12ACEE55B.udd" 2125
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 2126
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 2127
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/3/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__E62812FC60BF1B51227D1FDB468CBBBCE87B4B98.udd" 2128
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_300F91D746B84377794E1FA74622CC3__58FD5C3B232233F530BA07C6705703CD6004C53D.udd" 2129
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_300F91D746B84377794E1FA74622CC3__14ADB8E34A2E98C8F8DCCE322087E721F0AC41BD.udd" 2130
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_300F91D746B84377794E1FA74622CC3__E31F133B34EE307B12ED5E2BB06E205127413EC0.udd" 2131
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_300F91D746B84377794E1FA74622CC3__CAE4F6648E0173AC02E81AFC3EF9E00C9D20D90D.udd" 2132
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 2133
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__DD94088ADA8A20BCB2BAEC70358B509C5A2A1E08.udd" 2134
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 2135
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 2136
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_9F5B2DF1453DB1272733529F5E95869__865F4DFF27C87C195E701D78E507A15AAD8CAEBE.udd" 2137
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 2138
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_A4535AA24BB699361857049E2A844B2__1928B3E21AD60865D7E26FB3CEC8B38EE1A6A14C.udd" 2139
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 2140
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 2141
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 2142
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 2143
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 2144
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 2145
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 2146
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 2147
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 2148
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 2149
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 2150
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 2151
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 2152
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 2153
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset" 2154
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_83F875724EA0A8F88F727AAA3824BFC__FCB1C50E1FD9A3AA9C4263360B13E70B682F4811.udd" 2155
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset" 2156
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_46B8DD4D436052DA4522BDB4039A698__7801B1366E0C52D3F24C0BAC3EE9D3C8DE9F8BBC.udd" 2157
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/2DBackgroundTile.uasset" 2158
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_D1E814BA40821C40AD8995ADAEF38__D721371768CAC56DCEEEC6DC002042773075B49D.udd" 2159
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/2DBackgroundBlockAtlas.uasset" 2160
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Textures/2DBackground.uasset" 2161
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_RGBA8_ECDFBF554446916EB516608CE6C1703__6C947215FAAE9AC040B2F1DC517CB3C84C4DDA30.udd" 2162
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_9.uasset" 2163
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_8.uasset" 2164
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_7.uasset" 2165
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_6.uasset" 2166
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_5.uasset" 2167
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_4.uasset" 2168
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_3.uasset" 2169
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_2.uasset" 2170
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_16.uasset" 2171
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_15.uasset" 2172
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_14.uasset" 2173
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_13.uasset" 2174
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_12.uasset" 2175
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_11.uasset" 2176
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_10.uasset" 2177
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunFrames/RunCycle_1.uasset" 2178
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle8.uasset" 2179
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle7.uasset" 2180
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle6.uasset" 2181
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle5.uasset" 2182
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle4.uasset" 2183
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle3.uasset" 2184
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle2.uasset" 2185
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle1.uasset" 2186
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/RunningAnimation.uasset" 2187
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/PrototypingSprite.uasset" 2188
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2dSideScroller/Materials/PrototypingSpriteMaterial.uasset" 2189
+"C:/Users/bheagney/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/2/MATSM_36C14CFABCD54E0E846080318C712DCE_GLSL_ES2_WEBGL_18769__BC5N_NOCCBN_NOIRI__1E3CFC29D6683495778576F96AC676BACA0D7F32.udd" 2190
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/Ledge.uasset" 2191
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/IdleAnimation.uasset" 2192
+"../../../../../../D drive for Heagney/UnrealProjects/LinzeysJourney/Content/2DSideScroller/Sprites/Background_Sprite.uasset" 2193
